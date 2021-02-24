@@ -1,6 +1,6 @@
 # MLmodelWebDeployment
 
-Once we have built and saved a model we need to deploy our model to the internet.
+Once we have built and saved a model we need to deploy our model.
 
 Here are the the three Udemy Courses I purchased on-sale with regard to “Deploying ML models to the Web”
 
